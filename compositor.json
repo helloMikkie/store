@@ -119,7 +119,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n"
+      "html": "\n<h2>Framer</h2>\n<h2>React</h2>\n<h2>CSS Frameworks</h2>\n<p><a href=\"http://tachyons.io/\">Tachyons</a></p>\n"
     },
     {
       "component": "footer",
