@@ -5,6 +5,7 @@
 
 
 ## React
+[add fonts](https://scotch.io/@micwanyoike/how-to-add-fonts-to-a-react-project)
 
 ## CSS Frameworks
 [Tachyons](http://tachyons.io/)  
