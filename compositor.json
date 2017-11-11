@@ -101,18 +101,7 @@
       "component": "header",
       "heading": "store",
       "subhead": null,
-      "children": [
-        {
-          "component": "ui/TweetButton",
-          "text": "store: ",
-          "url": null
-        },
-        {
-          "component": "ui/GithubButton",
-          "user": "helloMikkie",
-          "repo": "store"
-        }
-      ]
+      "children": null
     },
     {
       "component": "article",
